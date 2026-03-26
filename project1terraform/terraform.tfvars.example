@@ -1,0 +1,12 @@
+# terraform.tfvars.example
+# ─────────────────────────────────────────────────────────
+# This file IS committed to GitHub — shows structure, not real values.
+# Copy this file to: terraform.tfvars
+# Fill in your real values in terraform.tfvars (which is gitignored).
+# ─────────────────────────────────────────────────────────
+
+location            = "eastus"
+resource_group_name = "1-27cc5856-playground-sandbox"
+admin_username      = "azureadmin"
+admin_password      = "REPLACE_WITH_STRONG_PASSWORD"   # Min 12 chars, uppercase, lowercase, number, special char
+key_vault_name      = "kv-3tier-XX-001"                # Replace XX with your initials

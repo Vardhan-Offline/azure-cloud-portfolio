@@ -1,0 +1,15 @@
+# Terraform state files — contain resource IDs and sensitive data
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Your actual variable values — contains your password
+terraform.tfvars
+
+# Terraform working directory — downloaded provider plugins (large folder)
+.terraform/
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+crash.*.log
