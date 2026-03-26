@@ -99,6 +99,6 @@ Managed Identity, HCL           Boot Diagnostics, IIS          KQL, Auto-Remedia
 
 **Lakkoju Keerthi Vardhan**
 - AZ-900 | AZ-104 | AI-900
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/keerthi-vardhan-lakkoju-197b9328b)
 README.md
 Displaying README.md.
