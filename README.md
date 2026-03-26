@@ -1,42 +1,6 @@
 # azure-cloud-portfolio
 Azure Infrasturcture as Code Portfolio - Terraform 3-tier Architecture, PowerShell VM Hardening and Automated Monitoring with auto Remediation
-None selected
 
-Skip to content
-Using Gmail with screen readers
-1 of 1,643
-README
-Inbox
-
-Vardhan, Lakkoju Keerthi <lakkoju-keerthi.vardhan@capgemini.com>
-Attachments
-4:04 PM (0 minutes ago)
-to me, Vardhan
-
-
-
-Regards,
-
- 
-
-Lakkoju Keerthi Vardhan
-
-PRISM-Blue (DEM Tools)
-
-Sr. Analyst | Cloud Infrastructure Services
-
-Capgemini “India” | Bangalore
-
-Contact : +91 9700385201
-
- 
-
-This message contains information that may be privileged or confidential and is the property of the Capgemini Group. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message.
-...
-
-[Message clipped]  View entire message
- 2 Attachments
-  •  Scanned by Gmail
 # Azure Cloud & DevOps Portfolio
 
 Three end-to-end Azure infrastructure projects demonstrating **Infrastructure as Code**, **security hardening**, **monitoring**, and **automated remediation** — all deployed with zero portal clicks.
