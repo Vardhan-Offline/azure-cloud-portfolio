@@ -1,0 +1,46 @@
+# Terraform state (Project 1 artifacts — if sharing a mono-repo)
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# Azure Automation webhook URL — contains a secret token, NEVER commit
+docs/webhook-url.txt
+
+# SSH keys for test VM — private keys never committed
+docs/ssh-key-*
+*.pem
+*.pub
+
+# PowerShell credential / secret files
+*.credential
+*.cred
+*.secret
+
+# Azure CLI / SDK temp
+azure.err
+azureProfile.json
+
+# VS Code
+.vscode/
+
+# Local environment files
+*.env
+.env.local
+*.env.*
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+
+# JetBrains IDEs
+.idea/
+*.iml
